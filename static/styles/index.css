@@ -91,3 +91,7 @@ input, textarea{
 .icon-social{
     font-size: 20px;
 }
+
+.side-nav{
+    background-color: #303030 !important;
+}
